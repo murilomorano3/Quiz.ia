@@ -78,10 +78,6 @@ let perguntaAtual;
 function mostraPergunta (){
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
-    botaoAlternativa.addEventListener("click", function() {
-        atual++;
-        mostraPergunta();
-    })
     mostraAlternativas();
 }
 
@@ -89,6 +85,10 @@ function mostraAlternativas (){
     for(const alternativa of perguntaAtual.alternativas) {
         const botaoAlternativa = document.createElement("button");
         botaoAlternativa.textContent = alternativa.texto;
+        botaoAlternativa.addEventListener("click", function() {
+        atual++;
+        mostraPergunta();
+    })
         caixaAlternativas.appendChild(botaoAlternativa);
     }
 }
