@@ -32,4 +32,11 @@ button {
     color: var(--cor-texto);
     border: none;
     border-radius: 15px;
+    padding: 15;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: var(--cor-destaque);
+    color: var(--cor-principal);
 }
