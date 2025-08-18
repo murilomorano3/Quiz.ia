@@ -23,50 +23,50 @@ const perguntas = [
         alternativas: [
             {
                 texto: "É uma ótima chance de crescer, eu topo!",
-                afirmacao: "afirmacao"
+                afirmacao: "Graças a esse clube, você pode trocar experiências com outros jogadores e jogar com clubes de fora, ganhando inúmeras partidas e um grande destaque no próprio estado."
             }, 
             {
                 texto: "Esse clube não me merece",
-                afirmacao: "afirmacao"
+                afirmacao: "Sua habilidade continuou a mesma e a soberba foi crescendo. Mesmo assim, você menteve o sonho de ser um grande jogador."
             } 
         ]
     }, 
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Aos 17, perto de sair da categoria de base, seu pai numa última tentativa de torná-lo grande te increve na peneira do Vasco da Gama",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmacao"
+                texto: "Me esforçar ao máximo para conseguir essa vaga",
+                afirmacao: "Você foi escolhido para jogar no Vasco, e não no sub 17! O treinador logo notou suas habilidades e te mandou direto para o time principal!"
             }, 
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmacao"
+                texto: "Só fazer o que treinou em casa, você sabe que todos os que estão lá são perebentos no futebol",
+                afirmacao: "As coisas não aconteceram da forma que você planejava, pois o neto do Romário estava naquela peneira e te mandou direto pra casa. Aquilo foi um banho de água fria na sua vida."
             } 
         ]
     }, 
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você foi jogar um society com seus amigos e, por algum motivo, o treinador do Barcelona estava lá assistindo, passando o final de semana.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmacao"
+                texto: "Jogar como se fosse a partida da sua vida, vai que ele cresce o olho",
+                afirmacao: "Dito e feito! O técnico do Barcelona nem conversou com o presidente do clube e te contratou ali mesmo com um guardanapo e uma Bic falhada. Seu futuro está feito!"
             }, 
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmacao"
+                texto: "Ele nem deve estar prestando atenção e eu tô numa preguiça, vou jogar de boa",
+                afirmacao: "O tongo jogou como se fosse o Ronaldo gordo, errou até o nó da chuteira e, novamente, o neto do Romário estava lá. Ele pegou sua vaga no Barcelona."
             } 
         ]
     }, 
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
+        enunciado: "A seleção brasileira, na má fase, resolve chamar alguns voluntários para uma peneira e concorrer a chance de jogar a copa do mundo",
         alternativas: [
             {
-                texto:  "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmacao"
+                texto:  "Destruir na peneira",
+                afirmacao: "É o novo Pelé! Foi convocado para a seleção, marcou 23 gols na final contra a Argentina, quebrou a perna do Messi e ainda ganhou a bola de ouro! Virou o jogador que mais ganha bem na história do futebol e se aposentou aos 30 anos por tédio, mas tem um contrato vitalício com o Barcelona e foi o rico pelo resto da vida!"
             }, 
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.", 
-                afirmacao: "afirmacao"
+                texto: "Não conheço nenhum dos poucos jogadores que foram convocados e esses que estão na peneira não devem nem saber dominar a bola, não vou nem me esforçar", 
+                afirmacao: "Na peneira, você tentou driblar o Thiago Silva (que estava com 53 anos e jogando na seleção), ele te deu um carrinho e quebrou sua perna em 8 partes diferentes. Você perdeu os movimentos da perna direita (a perna boa) e trabalhou como entregador daqueles panfletos que parecem uma nota de R$100 pelo resto da vida (reagiu ao assalto de um mendigo e morreu aos 30 anos)"
             } 
         ]
     }, 
