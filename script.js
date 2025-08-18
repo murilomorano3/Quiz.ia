@@ -6,27 +6,27 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você tem 6 anos e já uma estrela no futebol, possui uma habilidade nos pés como ninguém. Seu pai, ao notá-lo, te dá a oportunidade de entrar em uma escolinha",
         alternativas: [
             {
-                texto: "isso é assustador!",
-                afirmacao: "afirmacao"
+                texto: "Aceitar",
+                afirmacao: "Essa escolinha é reconhecida como a melhor ecolinha do estado do Paraná, sendo conhecida por ser o berço de grandes jogadores, logo, suas habilidades no futebol aumentam ainda mais."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                texto: "Recusar e treinar em casa",
+                afirmacao: "Por não ter um treinador, sua única alternativa é imitar os lances que vê na TV, usando cadeiras como bonecos e, depois, pondo em prática com o seu pai."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "O tempo passou e agora você tem 12 anos! Um olheiro percebe seu potencial e te chama para jogar no time da cidade. Obs: é um time pequeno.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "É uma ótima chance de crescer, eu topo!",
                 afirmacao: "afirmacao"
             }, 
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Esse clube não me merece",
                 afirmacao: "afirmacao"
             } 
         ]
